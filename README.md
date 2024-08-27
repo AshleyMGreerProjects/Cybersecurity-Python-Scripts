@@ -18,4 +18,7 @@ This script generates and compares SHA-256 hashes of files to detect unauthorize
 ### 4. **Basic Encryption and Decryption Using Fernet**
 A script that demonstrates symmetric encryption and decryption using the `cryptography` library, providing a simple way to secure sensitive data.
 
+### 5. Network Scanner with a GUI  
+This script allows users to input an IP address, MAC address, and specify a range of ports to scan for open connections. The application ensures secure operation by requiring admin access before it can be executed. Designed for quick network audits, it leverages multithreading to efficiently scan and report open ports within the specified range. 
+
 This will serve as a repository for my small scale cybersecurity projects and will be updated periodically depending on when I develop new projects
